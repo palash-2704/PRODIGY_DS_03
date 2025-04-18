@@ -63,11 +63,4 @@ The model provides an overview of which features contribute most to the predicti
 
 ---
 
-## 📂 Files
-
-- `Task3PT.ipynb` – Jupyter Notebook with full code and analysis
-- `README.md` – Project documentation
-- `bank-full.csv` – Dataset (not included here; download from [UCI link](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip))
-
----
 
