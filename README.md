@@ -1,5 +1,3 @@
-# PRODIGY_DS_03
-![Screenshot 2025-04-18 175809](https://github.com/user-attachments/assets/9e312221-56b7-4954-8af8-6f967c624436)
 
 
 
